@@ -1,2 +1,2 @@
 # teskonflik
-ts kun
+ts
